@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="134fccd5-47e2-43e2-b893-a3b4902c0378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1209.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P10/P10A/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P10/P10B/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P6/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P6/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P8/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P14/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P14/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P19/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P21/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P24/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P26/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P30/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P30/CarException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P30/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P32/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P34/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P35/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P36/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P40/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P44/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P45/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P46/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P47/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P47/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P48/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P50/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P52/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P55/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +62,44 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/brian/Desktop/111-1/git/1209/homework1209/src/P8"
+    "last_opened_file_path": "D:/111-1/git/1209/homework1209/src/P55",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\brian\Desktop\111-1\git\1209\homework1209\src\P8" />
+      <recent name="D:\111-1\git\1209\homework1209\src\P55" />
+      <recent name="D:\111-1\git\1209\homework1209\src\P47" />
+      <recent name="D:\111-1\git\1209\homework1209\src\P46" />
+      <recent name="D:\111-1\git\1209\homework1209\src\P45" />
+      <recent name="D:\111-1\git\1209\homework1209\src\P14" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="P48" />
+      <recent name="P32" />
+      <recent name="P26" />
+      <recent name="P24" />
+      <recent name="P21" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="X" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P40.X" />
+      <module name="homework1209" />
+      <option name="PROGRAM_PARAMETERS" value="test1.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
